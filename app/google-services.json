@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021513676622",
+    "project_id": "socialintegrate-4fe47"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021513676622:android:afce8cffb323ea3b",
+        "android_client_info": {
+          "package_name": "com.example.user.socialintegrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021513676622-s82jiir8q72agvf9c2bkj5tfht1ev19e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.socialintegrate",
+            "certificate_hash": "a143ccb646da37cb277e79d0c8cb1d41e18eb745"
+          }
+        },
+        {
+          "client_id": "1021513676622-c7hqlfshs0bjce2j3tro94rs6mhrenbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-owfhxssjrobWout52dSO3K2ocP7yxeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
